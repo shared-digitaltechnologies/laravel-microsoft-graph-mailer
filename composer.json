@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "description": "Adds a mailer transport that sends emails using the microsoft graph API.",
     "license": "proprietary",
-    "keywords": [],
+    "keywords": ["laravel", "mailer", "azure", "microsoft-graph"],
     "readme": "README.md",
     "authors": [
         {
