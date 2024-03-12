@@ -1,6 +1,6 @@
 {
     "name": "shrd/laravel-microsoft-graph-mailer",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "description": "Adds a mailer transport that sends emails using the microsoft graph API.",
     "license": "proprietary",
     "keywords": ["laravel", "mailer", "azure", "microsoft-graph"],
