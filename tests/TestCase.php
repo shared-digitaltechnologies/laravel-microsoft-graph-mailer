@@ -18,8 +18,7 @@ abstract class TestCase extends BaseTestCase
     protected function getPackageProviders($app): array
     {
         return [
-            'Shrd\Laravel\Azure\Credentials\ServiceProvider',
-            'Shrd\Laravel\Azure\MicrosoftGraphMailer\ServiceProvider',
+            'Shrd\Laravel\Azure\MicrosoftGraphMailer\ServiceProvider'
         ];
     }
 
