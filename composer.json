@@ -2,7 +2,12 @@
     "name": "shrd/laravel-microsoft-graph-mailer",
     "description": "Adds a mailer transport that sends emails using the microsoft graph API.",
     "license": "proprietary",
-    "keywords": ["laravel", "mailer", "azure", "microsoft-graph"],
+    "keywords": [
+        "laravel",
+        "mailer",
+        "azure",
+        "microsoft-graph"
+    ],
     "readme": "README.md",
     "authors": [
         {
@@ -14,7 +19,7 @@
         "php": ">= 8.2",
         "illuminate/contracts": "^10.0",
         "symfony/mailer": "^6.4.2",
-        "shrd/laravel-azure-identity": "^0.3.0"
+        "shrd/laravel-azure-identity": "^0.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^10.5",
